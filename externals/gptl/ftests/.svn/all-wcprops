@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests
+END
+outoforder.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/outoforder.F90
+END
+errtest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/errtest.F90
+END
+testpapi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/testpapi.F90
+END
+handle.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/handle.F90
+END
+nlreader.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/nlreader.F90
+END
+summary.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/summary.F90
+END
+overhead.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/overhead.F90
+END
+toomanythreads.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/toomanythreads.F90
+END
+testinit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/testinit.F90
+END
+gptlnl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/gptlnl
+END
+testbasics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/testbasics.F90
+END
+pmpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/pmpi.F90
+END
+utrtest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/utrtest.F90
+END
+testbacktrace.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/testbacktrace.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ftests/Makefile
+END

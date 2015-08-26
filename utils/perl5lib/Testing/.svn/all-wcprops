@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/Testing
+END
+CESMTest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/Testing/CESMTest.pm
+END
+TestLists.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/Testing/TestLists.pm
+END

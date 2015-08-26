@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/mock
+END
+shr_sys_mod.nompi_abortthrows.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/mock/shr_sys_mod.nompi_abortthrows.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/mock/CMakeLists.txt
+END

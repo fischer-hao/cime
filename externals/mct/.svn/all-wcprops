@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/config.h.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/configure
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/configure.ac
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/.gitignore
+END
+Makefile.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/Makefile.conf.in
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/COPYRIGHT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/install-sh
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library
+END
+Zscore.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/Zscore.ncl
+END
+area_avg.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/area_avg.ncl
+END
+vinterp.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/vinterp.ncl
+END
+plot_rmsz.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/plot_rmsz.ncl
+END
+rmsz.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/rmsz.ncl
+END
+print.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/print.ncl
+END
+create_ensemble.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/create_ensemble.ncl
+END
+global.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ncl_library/global.ncl
+END

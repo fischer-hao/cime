@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/m4
+END
+acx_mpi.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/m4/acx_mpi.m4
+END
+ax_fc_version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/m4/ax_fc_version.m4
+END
+fortran.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/m4/fortran.m4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/m4/README
+END

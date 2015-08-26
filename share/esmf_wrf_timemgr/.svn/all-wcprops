@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr
+END
+ESMF_AlarmClockMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_AlarmClockMod.F90
+END
+ESMF_CalendarMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_CalendarMod.F90
+END
+ESMF_BaseMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_BaseMod.F90
+END
+ESMF_ShrTimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_ShrTimeMod.F90
+END
+MeatMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/MeatMod.F90
+END
+ESMF_TimeMgr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_TimeMgr.inc
+END
+ESMF.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/README
+END
+wrf_message.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/wrf_message.F90
+END
+ESMF_BaseTimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_BaseTimeMod.F90
+END
+ESMF_ClockMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_ClockMod.F90
+END
+ESMF_AlarmMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_AlarmMod.F90
+END
+ESMF_TimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_TimeMod.F90
+END
+ESMF_Macros.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_Macros.inc
+END
+ESMF_Stubs.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_Stubs.F90
+END
+ESMF_TimeIntervalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_TimeIntervalMod.F90
+END
+wrf_error_fatal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/wrf_error_fatal.F90
+END
+ESMF_FractionMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/ESMF_FractionMod.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/esmf_wrf_timemgr/CMakeLists.txt
+END

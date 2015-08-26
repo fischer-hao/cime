@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/.gitignore
+END
+coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/coupler.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/master.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/README
+END
+model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/climate_concur1/model.F90
+END

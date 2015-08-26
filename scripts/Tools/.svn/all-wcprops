@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools
+END
+compare_namelists.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/compare_namelists.pl
+END
+README.post_process
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/README.post_process
+END
+component_compare_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_compare_test.sh
+END
+cesm_build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_build.pl
+END
+component_compare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_compare.sh
+END
+config_compsets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_compsets.xml
+END
+component_compgen_baseline.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_compgen_baseline.sh
+END
+check_input_data
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/check_input_data
+END
+config_compsets.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_compsets.xsl
+END
+component_write_comparefail.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_write_comparefail.pl
+END
+baseline_gen_comp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/baseline_gen_comp
+END
+lt_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/lt_archive.sh
+END
+archive_metadata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/archive_metadata.sh
+END
+load.awk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/load.awk
+END
+preview_namelists
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/preview_namelists
+END
+ProjectTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/ProjectTools.pm
+END
+cesm_prerun_setup
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_prerun_setup
+END
+component_compare_move.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_compare_move.sh
+END
+cesm_setup
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_setup
+END
+check_case
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/check_case
+END
+config_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_grid.xml
+END
+cesm_submit
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_submit
+END
+ConfigCase.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/ConfigCase.pm
+END
+testreporter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/testreporter.pl
+END
+cesm_buildnml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_buildnml
+END
+check_memory.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/check_memory.pl
+END
+check_exactrestart.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/check_exactrestart.pl
+END
+check_lockedfiles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/check_lockedfiles
+END
+cesm_prestage
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_prestage
+END
+cesm_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_build.csh
+END
+xmltestentry
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/xmltestentry
+END
+component_generate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/component_generate.sh
+END
+create_production_test_readme
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/create_production_test_readme
+END
+xmlquery
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/xmlquery
+END
+cs.status
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cs.status
+END
+getTiming
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/getTiming
+END
+st_archive
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/st_archive
+END
+compare_throughput.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/compare_throughput.pl
+END
+testcase_setup
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/testcase_setup
+END
+concat_daily_hist.csh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/concat_daily_hist.csh
+END
+SetupTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/SetupTools.pm
+END
+UserModsTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/UserModsTools.pm
+END
+year_string.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/year_string.sh
+END
+create_train
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/create_train
+END
+cesm_postrun_setup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_postrun_setup
+END
+config_archive.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_archive.xsd
+END
+config_archive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_archive.xml
+END
+xmlchange
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/xmlchange
+END
+cs.submit
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cs.submit
+END
+cesm_clean_build
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/cesm_clean_build
+END
+create_production_test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/create_production_test
+END
+config_definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Tools/config_definition.xml
+END

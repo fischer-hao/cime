@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/check_maps/src
+END
+ESMF_RegridWeightGenCheck.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/check_maps/src/ESMF_RegridWeightGenCheck.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/check_maps/src/Makefile
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases
+END
+PEM_auto_pes_file
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PEM_auto_pes_file
+END
+PET_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PET_build.csh
+END
+PMT_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PMT_script
+END
+SMS_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/SMS_script
+END
+PEA_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PEA_script
+END
+PMT_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PMT_build.csh
+END
+tests_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/tests_build.csh
+END
+ICP_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ICP_script
+END
+NCK_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NCK_script
+END
+NOC_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NOC_script
+END
+PEM_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PEM_script
+END
+OCP_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/OCP_script
+END
+SBN_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/SBN_script
+END
+APT_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/APT_script
+END
+ERP_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ERP_script
+END
+PFS_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PFS_script
+END
+ERT_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ERT_script
+END
+APT_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/APT_build.csh
+END
+ERP_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ERP_build.csh
+END
+config_tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/config_tests.xml
+END
+CME_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/CME_script
+END
+SSP_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/SSP_script
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/README
+END
+CME_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/CME_build.csh
+END
+PEA_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PEA_build.csh
+END
+LAR_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/LAR_script
+END
+ERI_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ERI_script
+END
+ICP_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ICP_build.csh
+END
+NCK_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NCK_build.csh
+END
+NCR_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NCR_script
+END
+NOC_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NOC_build.csh
+END
+STA_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/STA_script
+END
+PET_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PET_script
+END
+PEM_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/PEM_build.csh
+END
+OCP_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/OCP_build.csh
+END
+SEQ_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/SEQ_script
+END
+ERS_script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/ERS_script
+END
+NCR_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testcases/NCR_build.csh
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/LICENSE.txt
+END
+README_pyEnsSum.rst
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/README_pyEnsSum.rst
+END
+pyEnsSum.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/pyEnsSum.py
+END
+README_pyCECT.rst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/README_pyCECT.rst
+END
+pyEnsLib.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/pyEnsLib.py
+END
+ens_excluded_varlist.json
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/ens_excluded_varlist.json
+END
+pyCECT.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/pyCECT/pyCECT.py
+END

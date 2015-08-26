@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles
+END
+landuse.timeseries_1x1_boulderCO_c090804_simyr1850-2000.nc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/landuse.timeseries_1x1_boulderCO_c090804_simyr1850-2000.nc
+END
+aerosoldep_monthly_1850_1x1_boulderCO_c090804.nc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/aerosoldep_monthly_1850_1x1_boulderCO_c090804.nc
+END
+fracdata_1x1_boulderCO_c090804_USGS.nc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/fracdata_1x1_boulderCO_c090804_USGS.nc
+END
+surfdata_1x1_boulderCO_c090804_simyr1850.nc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/surfdata_1x1_boulderCO_c090804_simyr1850.nc
+END
+topodata_1x1_boulderCO_c090804.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/topodata_1x1_boulderCO_c090804.nc
+END
+griddata_1x1_boulderCO_c090804.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/t/usrfiles/griddata_1x1_boulderCO_c090804.nc
+END

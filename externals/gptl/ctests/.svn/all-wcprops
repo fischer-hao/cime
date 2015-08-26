@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests
+END
+cygprofilesubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/cygprofilesubs.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/global.c
+END
+printwhileon.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/printwhileon.c
+END
+cygprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/cygprofile.c
+END
+gran_overhead.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/gran_overhead.c
+END
+papiomptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/papiomptest.c
+END
+pmpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/pmpi.c
+END
+knownflopcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/knownflopcount.c
+END
+myclasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/myclasses.h
+END
+profcxx.C
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/profcxx.C
+END
+testpapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/testpapi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/Makefile
+END
+avail.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/avail.c
+END
+summary.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/ctests/summary.c
+END

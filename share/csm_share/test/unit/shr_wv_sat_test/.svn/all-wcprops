@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/shr_wv_sat_test
+END
+test_wv_sat.pf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/shr_wv_sat_test/test_wv_sat.pf
+END
+test_wv_sat_each_method.pf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/shr_wv_sat_test/test_wv_sat_each_method.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/share/csm_share/test/unit/shr_wv_sat_test/CMakeLists.txt
+END

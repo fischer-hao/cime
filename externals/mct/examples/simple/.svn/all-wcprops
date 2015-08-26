@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple
+END
+twocmp.con.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/twocmp.con.F90
+END
+twocmp.seqUnvn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/twocmp.seqUnvn.F90
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/.gitignore
+END
+script.babyblue
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/script.babyblue
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/README
+END
+twocmp.seq.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/twocmp.seq.F90
+END
+twocmp.seqNB.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/examples/simple/twocmp.seqNB.F90
+END

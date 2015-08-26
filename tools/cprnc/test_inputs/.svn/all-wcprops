@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs
+END
+control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/control.nc
+END
+vals_differ_by_varying_amounts.nc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/vals_differ_by_varying_amounts.nc
+END
+clm2.h0.subset.test.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/clm2.h0.subset.test.nc
+END
+control_multipleTimes_someTimeless.nc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/control_multipleTimes_someTimeless.nc
+END
+clm2.h1.subset.test.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/clm2.h1.subset.test.nc
+END
+clm2.h0.subset.control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/clm2.h0.subset.control.nc
+END
+diffs_in_fill.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/diffs_in_fill.nc
+END
+clm2.h1.subset.control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/clm2.h1.subset.control.nc
+END
+control_noTime.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/control_noTime.nc
+END
+vals_differ_by_1.1.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/vals_differ_by_1.1.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/README
+END
+diffs_in_vals_and_fill.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/diffs_in_vals_and_fill.nc
+END
+diffs_in_vals_and_diffs_in_fill.nc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/diffs_in_vals_and_diffs_in_fill.nc
+END
+cpl.hi.subset.test.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/cpl.hi.subset.test.nc
+END
+cpl.hi.subset.control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/cpl.hi.subset.control.nc
+END
+control_0d.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/control_0d.nc
+END
+multipleTimes_someTimeless_diffs_in_vals_and_fill.nc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/multipleTimes_someTimeless_diffs_in_vals_and_fill.nc
+END
+vals_differ_by_varying_amounts2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/vals_differ_by_varying_amounts2.nc
+END
+diffs_in_vals.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/diffs_in_vals.nc
+END
+noTime_diffs_in_vals_and_fill.nc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/noTime_diffs_in_vals_and_fill.nc
+END
+copy.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/copy.nc
+END
+vals_differ_by_1.1_somewhere.nc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/vals_differ_by_1.1_somewhere.nc
+END
+diffs_0d.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/cprnc/test_inputs/diffs_0d.nc
+END

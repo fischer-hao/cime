@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/XML
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/XML/Changes
+END
+Lite.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/XML/Lite.pm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/utils/perl5lib/XML/README
+END

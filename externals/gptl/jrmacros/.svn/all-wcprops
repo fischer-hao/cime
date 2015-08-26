@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros
+END
+macros.make.craynompi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.craynompi
+END
+macros.make.jet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.jet
+END
+macros.make.jetnompi
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.jetnompi
+END
+macros.make.taccxeonphi
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.taccxeonphi
+END
+macros.make.ornlintel
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.ornlintel
+END
+macros.make.zeus
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.zeus
+END
+macros.make.m1xeonphi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.m1xeonphi
+END
+macros.make.zeusnompi
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.zeusnompi
+END
+macros.make.tacc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.tacc
+END
+macros.make.bluefire
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.bluefire
+END
+macros.make.m1
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.m1
+END
+macros.make.cray
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/gptl/jrmacros/macros.make.cray
+END

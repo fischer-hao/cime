@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test
+END
+validation_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/validation_test.sh
+END
+ensemble.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/ensemble.sh
+END
+user_nl_cam_LENS
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/user_nl_cam_LENS
+END
+single_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/single_run.sh
+END
+test_run_against_ensemble.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/statistical_ensemble_test/test_run_against_ensemble.ncl
+END

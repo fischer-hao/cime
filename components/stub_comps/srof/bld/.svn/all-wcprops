@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/stub_comps/srof/bld
+END
+srof.buildlib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/stub_comps/srof/bld/srof.buildlib
+END
+srof.buildnml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/stub_comps/srof/bld/srof.buildnml
+END

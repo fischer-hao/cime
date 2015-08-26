@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests
+END
+ftest_old.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/ftest_old.F90
+END
+ctest_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/ctest_old.c
+END
+ftest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/ftest.F90
+END
+ctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/ctest.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/Makefile
+END
+ftest_internal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/mct/mpi-serial/tests/ftest_internal.F90
+END

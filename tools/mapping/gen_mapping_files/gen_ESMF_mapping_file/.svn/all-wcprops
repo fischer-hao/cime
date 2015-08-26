@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file
+END
+nearestdtos.area_fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file/nearestdtos.area_fix.sh
+END
+create_ESMF_map.sh
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file/create_ESMF_map.sh
+END
+overwrite_map_area.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file/overwrite_map_area.ncl
+END
+regridbatch.yellowstone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file/regridbatch.yellowstone.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/gen_ESMF_mapping_file/README
+END

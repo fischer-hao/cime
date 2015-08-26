@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml
+END
+ExpectedTestFails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/ExpectedTestFails.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/README
+END
+testlist_allactive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/testlist_allactive.xml
+END

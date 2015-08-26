@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio
+END
+customdoxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/customdoxygen.css
+END
+ChangeLog_template
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/ChangeLog_template
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/Doxyfile
+END
+SVN_EXTERNAL_DIRECTORIES
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/SVN_EXTERNAL_DIRECTORIES
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/ChangeLog
+END
+DoxygenLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/DoxygenLayout.xml
+END
+doxygen.sty
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/doxygen.sty
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/externals/pio/CMakeLists.txt
+END

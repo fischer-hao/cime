@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/testmods_dirs/allactive/cism/oneway
+END
+xmlchange_cmnds
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/testmods_dirs/allactive/cism/oneway/xmlchange_cmnds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CESM-Development/cime/!svn/ver/4995/tags/cime1.0.8/scripts/Testing/Testlistxml/testmods_dirs/allactive/cism/oneway/README
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src
+END
+fixroff_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/fixroff_mod.F90
+END
+kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/kind_mod.F90
+END
+main.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/main.F90
+END
+mapsort_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/mapsort_mod.F90
+END
+smooth_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/smooth_mod.F90
+END
+shr_sys_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/shr_sys_mod.F90
+END
+shr_timer_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/shr_timer_mod.F90
+END
+map_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/map_mod.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/Makefile
+END
+shr_kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/tools/mapping/gen_mapping_files/runoff_to_ocn/src/shr_kind_mod.F90
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/xcpl_comps/xocn/bld
+END
+xocn.buildlib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/xcpl_comps/xocn/bld/xocn.buildlib
+END
+xocn.buildnml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cime/!svn/ver/5185/tags/cime_shr_flux_1.1.18/components/xcpl_comps/xocn/bld/xocn.buildnml
+END
