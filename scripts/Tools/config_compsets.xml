@@ -263,6 +263,8 @@ value of RUN_STARTDATE will be date2.
 <COMPSET sname="F_1975-2010_CCMI_REFC1SD_WACCM_TSMLT" alias="FWTC4L40CCMIR1SD">SDC1_CAM4%WTSM_CLM40%SP_CICE%PRES_DOCN%DOM_RTM_SGLC_SWAV</COMPSET>
 <COMPSET sname="F_1975-2010_CCMI_REFC1SD_TROP_STRAT"  alias="FTSC4L40CCMIR1SD">SDC1_CAM4%SSOA_CLM40%SP_CICE%PRES_DOCN%DOM_RTM_SGLC_SWAV</COMPSET>
 
+<COMPSET sname="F_1975-2010_CCMI_REFC1SD_WACCMX_MA"   alias="FWMXC4L40CCMIR1SD">SDC1_CAM4%WXMA_CLM40%SP_CICE%PRES_DOCN%DOM_RTM_SGLC_SWAV</COMPSET>
+
 <COMPSET sname="F_2000_CAM4_AQUAPLANET" alias="FC4AQUAP" >2000_CAM4_SLND_SICE_AQUAP_SROF_SGLC_SWAV</COMPSET>
 <COMPSET sname="F_2000_CAM5_AQUAPLANET" alias="FC5AQUAP" >2000_CAM5_SLND_SICE_AQUAP_SROF_SGLC_SWAV</COMPSET>
 <COMPSET sname="F_IDEAL_PHYS"           alias="FIDEAL"   >2000_CAM%IDEAL_SLND_SICE_SOCN_SROF_SGLC_SWAV</COMPSET>
@@ -607,6 +609,7 @@ GEOS => GEOS5 meteorology for "stand-alone" CAM
 <CAM_CONFIG_OPTS compset="GEOS_CAM5"      >-nlev 56</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="GEOS_CAM4%WC"   >-nlev 88</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="SDC1_CAM4%W"    >-nlev 88</CAM_CONFIG_OPTS>
+<CAM_CONFIG_OPTS compset="SDC1_CAM4%WX"   >-chem waccm_mozart -nlev 103 -waccmx</CAM_CONFIG_OPTS>
 
 <CAM_CONFIG_OPTS compset="_CAM4%FCHM"     >-chem super_fast_llnl</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="HIST_CAM4%FCHM" >-chem super_fast_llnl -age_of_air_trcs</CAM_CONFIG_OPTS> 
@@ -666,6 +669,8 @@ GEOS => GEOS5 meteorology for "stand-alone" CAM
 <CAM_NML_USE_CASE compset="SDC1_CAM4%WCMA">sd_1975-2010_ccmi_refc1_waccm_ma</CAM_NML_USE_CASE>
 <CAM_NML_USE_CASE compset="SDC1_CAM4%WTSM">sd_1975-2010_ccmi_refc1_waccm_tsmlt</CAM_NML_USE_CASE>
 <CAM_NML_USE_CASE compset="SDC1_CAM4%SSOA">sd_1975-2010_ccmi_refc1_trop_strat_soa</CAM_NML_USE_CASE>
+
+<CAM_NML_USE_CASE compset="SDC1_CAM4%WXMA">sd_1975-2010_ccmi_refc1_waccmx_ma</CAM_NML_USE_CASE>
 
 <CAM_NML_USE_CASE compset="2000_CAM4%WCMX"   >waccmx_2000_cam4</CAM_NML_USE_CASE>
 <CAM_NML_USE_CASE compset="2000_CAM4%WCXI"   >waccmxi_2000_cam4</CAM_NML_USE_CASE>
@@ -738,6 +743,7 @@ GEOS => GEOS5 meteorology for "stand-alone" CAM
 <desc compset="_CAM[45]%WCSF">CAM WACCM with sulfur chemistry and the sulfate CARMA model:</desc>
 <desc compset="_CAM[45]%WCMA">CAM WACCM with middle atmosphere chemistry:</desc>
 <desc compset="_CAM[45]%WTSM">CAM WACCM with tropospheric, stratospheric, mesospheric, and lower thermospheric chemistry:</desc>
+<desc compset="_CAM[45]%WXMA">CAM WACCM-X with middle atmosphere chemistry:</desc>
 <desc compset="_CAM[45]%FCHM">CAM super_fast_llnl chemistry:</desc> 
 <desc compset="_CAM[45]%TMOZ">CAM trop_mozart chemistry:</desc>
 <desc compset="_CAM[45]%TBAM">CAM trop_bam chemistry: </desc>
@@ -1522,6 +1528,8 @@ DOCN%COPY => docn copy mode
 
 <CALENDAR compset="GEOS_">GREGORIAN</CALENDAR> 
 
+<CALENDAR compset="SDC1_CAM4%WXMA">GREGORIAN</CALENDAR>
+
 <HIST_OPTION compset="CISM">nyears</HIST_OPTION>
 <HIST_N      compset="CISM">1</HIST_N>
 
@@ -1536,7 +1544,9 @@ DOCN%COPY => docn copy mode
 <CPL_EPBAL compset=".+"        >off</CPL_EPBAL>
 <CPL_EPBAL compset="DATM.*_POP2">ocn</CPL_EPBAL>
 
-<USE_ESMF_LIB compset="2000_CAM4%WCXE">TRUE</USE_ESMF_LIB>
+<USE_ESMF_LIB compset="_CAM4%WCMX">TRUE</USE_ESMF_LIB>
+<USE_ESMF_LIB compset="_CAM4%WX">TRUE</USE_ESMF_LIB>
+<USE_ESMF_LIB compset="_CAM4%WCX">TRUE</USE_ESMF_LIB>
 
 <!-- ======================================= -->
 <!--          USER_DEFINED section           -->
@@ -1561,6 +1571,7 @@ DOCN%COPY => docn copy mode
 <ATM_NCPL compset="_DATM"              > 48</ATM_NCPL>  
 <ATM_NCPL compset="_CAM[45]%WCBC"      >144</ATM_NCPL>
 <ATM_NCPL compset="_CAM4%WCMX"         >288</ATM_NCPL>
+<ATM_NCPL compset="_CAM4%WXMA"         >288</ATM_NCPL>
 <ATM_NCPL compset="_CAM4%WCXI"         >288</ATM_NCPL>
 <ATM_NCPL compset="_CAM4%WCXE"         >288</ATM_NCPL>
 <ATM_NCPL compset="_DATM.*_CLM"        > 48</ATM_NCPL> 
