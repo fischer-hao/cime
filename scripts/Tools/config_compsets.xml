@@ -600,7 +600,7 @@ GEOS => GEOS5 meteorology for "stand-alone" CAM
 <CAM_CONFIG_OPTS compset="_CAM4%WCSF"     >-chem waccm_mozart_sulfur -carma sulfate</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="_CAM[45]%WCMX"  >-waccmx</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="_CAM[45]%WCXI"  >-waccmx</CAM_CONFIG_OPTS>
-<CAM_CONFIG_OPTS compset="_CAM[45]%WCXE"  >-waccmx</CAM_CONFIG_OPTS>
+<CAM_CONFIG_OPTS compset="_CAM[45]%WCXE"  >-waccmx -nlev 126</CAM_CONFIG_OPTS>
 
 <CAM_CONFIG_OPTS compset="GEOS_CAM"       >-offline_dyn</CAM_CONFIG_OPTS>
 <CAM_CONFIG_OPTS compset="SDC1_CAM"       >-offline_dyn</CAM_CONFIG_OPTS>
